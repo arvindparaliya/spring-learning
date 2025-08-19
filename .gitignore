@@ -1,0 +1,37 @@
+# Ignore build outputs
+target/
+build/
+bin/
+.gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Temp files
+*.swp
+*.swo
+
+# Ignore generated META-INF and WEB-INF
+target/META-INF/
+target/WEB-INF/
+bin/META-INF/
+bin/WEB-INF/
