@@ -51,7 +51,7 @@ These projects were built to:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/spring-learning-journey.git
+   git clone https://github.com/arvindparaliya/spring-learning.git
    cd spring-learning-journey
    ```
 
